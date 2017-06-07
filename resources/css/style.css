@@ -9,10 +9,11 @@ html {
   color: white;
 }
 
-.header p {
+.header a {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+  font-weight: bold;
 }
 
 .process h2 {
@@ -44,4 +45,11 @@ p {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
+}
+
+.footer a {
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
 }
